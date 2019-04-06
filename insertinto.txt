@@ -67,7 +67,7 @@ insert into product values('P1032',10,20,'Wrangler Trouser',4100.0,'Clothes',200
 insert into product values('P1042',10,20,'Wrangler Tshirt',800.0,'Clothes',200.0,4.0,'36','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4N9AJgft9M-17kabKpvcVJjtv4p5q10Uh2qMcP21ru6pennfe');
 
 insert into product values('P1003',10,20,'Dettol',300.0,'Soap',10.0,3.4,'small','https://5.imimg.com/data5/KL/NR/MY-11796826/dettol-original-bar-soap-250x250.jpg');
-insert into product values('P1023',10,20,'LifeBoy',100.0,'Soap',10.0,3.4,'small',https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEOaJxINR9Wy3mOxVpk8eU60g2NjmBv0w7HL0usT0FqYmS88FZ');
+insert into product values('P1023',10,20,'LifeBoy',100.0,'Soap',10.0,3.4,'small','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEOaJxINR9Wy3mOxVpk8eU60g2NjmBv0w7HL0usT0FqYmS88FZ');
 insert into product values('P1033',10,20,'Dove',30.0,'Soap',10.0,3.4,'large','https://images-na.ssl-images-amazon.com/images/I/811973429FL._SY355_.jpg');
 insert into product values('P1043',10,20,'Pears',400.0,'Soap',10.0,3.4,'small','https://images-na.ssl-images-amazon.com/images/I/5160ABGUJmL.jpg');
 
